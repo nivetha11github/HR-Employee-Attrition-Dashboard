@@ -16,3 +16,19 @@ overtime impact, and compensation gaps — to help HR teams prioritize retention
 HR should prioritize reducing mandatory overtime in the Sales department and review 
 compensation bands for roles with high overtime and lower pay — this combination 
 represents the strongest attrition risk profile in the data.
+## 🛠️ Tools & Skills Used
+
+- **Power BI Desktop** — data modeling, DAX measures, dashboard design
+- **DAX** — custom measure for Attrition Rate (`DIVIDE` + `CALCULATE` + `COUNTROWS`)
+- **Data Analysis** — attrition trend analysis across department, workload, and compensation
+- **HR Analytics** — translating workforce data into actionable retention recommendations
+
+## 📁 Files in this Repository
+
+- `HR-Attrition-Dashboard.pbix` — Power BI dashboard file
+- `WA_Fn-UseC_-HR-Employee-Attrition.csv` — source dataset (IBM HR Analytics, via Kaggle)
+- `dashboardscreenshot.png` — dashboard preview image
+
+## 📌 Dataset Source
+
+[IBM HR Analytics Employee Attrition Dataset](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset) (Kaggle)
